@@ -1,4 +1,4 @@
-**GoalBot**
+# GoalBot
 
 This Discord bot is designed to facilitate user engagement by allowing them to choose from randomly selected images of Serie A soccer players. It aims to introduce an element of fun and interactivity within the Discord community.
 
@@ -8,6 +8,7 @@ This Discord bot is designed to facilitate user engagement by allowing them to c
    ```bash
    pip install -r requirements.txt
    ```
+   
 2. Create a `.env` file and add the bot token:
    ```
    TOKEN=YOUR_BOT_TOKEN
